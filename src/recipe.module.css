@@ -1,0 +1,21 @@
+.recipes {
+  border-radius: 10px;
+  box-shadow: 0px 5px 20px lightslategray;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  background: white;
+  align-items: center;
+  min-width: 45%;
+}
+
+.ingredients {
+  margin: 0px 50px;
+}
+
+.image {
+  margin: 50px;
+  border-radius: 50%;
+  border: 2px solid black;
+}
